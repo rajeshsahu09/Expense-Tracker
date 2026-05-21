@@ -1,0 +1,6 @@
+{
+  "name": "Vault Expense Tracker",
+  "description": "Privacy-first offline on-device expense tracker with built-in ML Kit parsed SMS and text categorization pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
